@@ -15,3 +15,6 @@
 # feature-2 branch
 
 * created feature-2 branch fro develop branch
+# feature-1 branch
+
+* created feature-1 branch from development
